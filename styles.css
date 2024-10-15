@@ -1,0 +1,28 @@
+body {
+  font-family: Arial, sans-serif;
+  width: 300px;
+  padding: 10px;
+}
+
+h1 {
+  font-size: 18px;
+  text-align: center;
+}
+
+button {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+#urlList {
+  max-height: 200px;
+  overflow-y: auto;
+  list-style-type: none;
+  padding: 0;
+}
+
+#urlList li {
+  font-size: 12px;
+  margin-bottom: 5px;
+}
